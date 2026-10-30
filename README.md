@@ -57,7 +57,7 @@ The project covers VPC creation, subnet configuration, route tables, security gr
 
 ## Architecture
 
-![AWS VPC Peering Architecture](vpc-peering-architecture.png)
+![AWS VPC Peering Architecture](vpc-peering-architecture.PNG)
 
 ## Project Screenshots
 
